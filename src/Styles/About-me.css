@@ -1,0 +1,53 @@
+.about-me{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    letter-spacing: 2px;
+}
+
+.about-me div{
+    font-family: Roboto;
+}
+
+.about-info{
+    color: #6cb963d4;
+    font-size: 1.1rem;
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-top: -20px;
+}
+
+.about-description{
+    text-align: justify;
+    width: 90%;
+    color: #b2bec3;
+    margin-top: 12px;
+}
+
+.about-services{
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+.service-header>h2{
+    color: #f2edd7;
+    font-family: Poppins;
+}
+
+.service-info{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.service-info div{
+    flex: 50%;
+    color: aliceblue;
+}
+
+.service-info div i{
+    color: #488a418c;
+    font-size: 2.5rem;
+}
+

@@ -1,0 +1,22 @@
+
+.side-nav .icons{
+    color: rgb(210, 225, 238);
+    font-size: 4vmin;
+    margin: auto;
+}
+
+
+.side-nav .icons .fas{
+    cursor: pointer;
+    text-shadow: 0 0 3px #00c483;
+}
+
+.side-nav .icons :hover{
+    color: #313131e6;
+}
+
+.content div h1{
+    color: #f2edd7;
+    font-family: Poppins;
+}
+
