@@ -1,11 +1,13 @@
 import React from 'react'
-import './App.css';
+import './App.css'
 import './Styles/SideNav.css'
 import './Styles/About-me.css'
 import './Styles/Academic.css'
-import Contents from './Components/Contents';
-import ProfilePic from './Components/ProfilePic';
-import Sidenav from './Components/Sidenav';
+import './Styles/Skills.css'
+import './Styles/Project.css'
+import Contents from './Components/Contents'
+import ProfilePic from './Components/ProfilePic'
+import Sidenav from './Components/Sidenav'
 
 class App extends React.Component {
   render() {

@@ -1,6 +1,6 @@
 import Aboutme from './Aboutme'
 import Academic from './Academic'
-import MySkills from './MySkills'
+import MySkills from './MySkills/index'
 import Projects from './Projects'
 
 export const NavComponents = [
