@@ -3,7 +3,10 @@ import React from 'react'
 function Projects() {
     return (
         <div className="projects">
-            <h1>Projects</h1>
+            <div>
+                <h1>Projects</h1>
+            </div>
+            <div className="line"></div>
         </div>
     )
 }
