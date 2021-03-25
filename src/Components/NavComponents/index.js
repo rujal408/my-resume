@@ -1,7 +1,7 @@
 import Aboutme from './Aboutme'
 import Academic from './Academic'
 import MySkills from './MySkills/index'
-import Projects from './Projects'
+import Works from './Works'
 
 export const NavComponents = [
     {
@@ -26,6 +26,6 @@ export const NavComponents = [
         id: 4,
         title:'My Projects',
         icon: <i className="fas fa-tasks"></i>,
-        component: <Projects />
+        component: <Works />
     }
 ]
